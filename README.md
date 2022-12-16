@@ -1,2 +1,2 @@
-# VOTE-ME
+# Vote Me
 Project: Voting Management System
