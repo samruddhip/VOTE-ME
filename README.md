@@ -5,11 +5,9 @@ Problem Statement: Build an electronic voting system using C++
 
 End Users: 
 
-  (1) Voter
-  
-  (2) Election Candidate
-  
-  (3) Admin
+    (1) Voter
+    (2) Election Candidate
+    (3) Admin
 
 Functions:
 
